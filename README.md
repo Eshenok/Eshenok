@@ -1,4 +1,4 @@
-<h2>Добро пожаловать 👋 Меня зовут Алесандр</h2>
+<h2>Добро пожаловать 👋 Меня зовут Александр</h2>
 
 --- 
 <h3>Я Frontend-разработчик</h3>
@@ -29,6 +29,9 @@
     🔍 Ищу работу frontend разработчиком
 
 </ul>
+
+<h3>Для связи со мной:</h3>
+<h3>voloshin.alexandr@proton.me</h3>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eshenok&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Eshenok&theme=dracula)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Eshenok&theme=dracula)
