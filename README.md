@@ -33,5 +33,7 @@
 <h3>Для связи со мной:</h3>
 <h3>voloshin.alexandr@proton.me</h3>
 
+pet-project: https://github.com/Eshenok/paint-online
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eshenok&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Eshenok&theme=dracula)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Eshenok&theme=dracula)
