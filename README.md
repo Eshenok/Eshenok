@@ -17,21 +17,9 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" title="express" width="40" height="40"/>
 </div>
 
-<h3>Обо мне:</h3>
-
----
-<ul>
-
-    🎓 Продолжаю изучать web разработку
-
-    🎸 Увлекаюсь игрой на гитаре
-
-    🔍 Ищу работу frontend разработчиком
-
-</ul>
 
 <h3>Для связи со мной:</h3>
-<h3>voloshin.alexandr@proton.me</h3>
+<h3>alexandr@voloshin-home.ru</h3>
 
 pet-project: https://github.com/Eshenok/paint-online
 
