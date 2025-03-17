@@ -21,7 +21,13 @@
 <h3>Для связи со мной:</h3>
 <h3>alexandr@voloshin-home.ru</h3>
 
-pet-project: https://github.com/Eshenok/paint-online
+pet-projects: 
+<ul>
+<li>[paint-online](https://github.com/Eshenok/paint-online)</li>
+<li>[Great recipe, поиск рецептов](https://github.com/Eshenok/Great-recipe)</li>
+<li>[CUTtie, обрезчик фото](https://github.com/Eshenok/CUTtie)</li>
+</ul>
+
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eshenok&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Eshenok&theme=dracula)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Eshenok&theme=dracula)
