@@ -27,5 +27,4 @@
 [Great recipe, поиск рецептов](https://github.com/Eshenok/Great-recipe)<br>
 [CUTtie, обрезчик фото](https://github.com/Eshenok/CUTtie)<br>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eshenok&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Eshenok&theme=dracula)![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Eshenok&theme=dracula)
